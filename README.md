@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**  
-🤖 Passionate about **NLP, RAG, and Deep Learning**  
+🤖 Passionate about **ML, NLP, RAG, and Deep Learning**  
 🧠 Focused on building **real-world AI systems** that bridge human language and machines  
 🚀 Currently exploring **LLMs, advanced retrieval systems, and scalable AI applications**
 
@@ -23,6 +23,12 @@
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230076A8.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-%23007ACC.svg?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ### 🧠 Core Skills
 
